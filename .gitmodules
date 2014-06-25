@@ -1,0 +1,12 @@
+[submodule "jmeter"]
+	path = jmeter
+	url = https://github.com/apache/jmeter.git
+[submodule "boom"]
+	path = boom
+	url = https://github.com/rakyll/boom.git
+[submodule "tsung"]
+	path = tsung
+	url = https://github.com/processone/tsung.git
+[submodule "grinder-code"]
+	path = grinder
+	url = git://git.code.sf.net/p/grinder/code
